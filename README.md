@@ -20,6 +20,9 @@
 
 Follow these steps to make your **first contribution** and get featured on the wall above 🎉  
 
+![Recording 2025-09-06 191531](https://github.com/user-attachments/assets/cd8524df-d9ee-435d-8a14-861d35483246)
+
+
 ### 1. Fork this repository 🍴  
 Click the **Fork** button at the top-right of this page.  
 
