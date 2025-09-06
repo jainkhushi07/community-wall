@@ -25,7 +25,7 @@ Click the **Fork** button at the top-right of this page.
 
 ### 2. Clone your fork ⬇️  
 ```bash
-git clone https://github.com/<your-username>/community-wall.git
+git clone https://github.com/TechQuanta/community-wall.git
 cd community-wall
 ```
 ### 3. Edit CONTRIBUTORS.md ✍️
